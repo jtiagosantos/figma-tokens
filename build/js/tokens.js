@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 02 Dec 2022 21:37:21 GMT
+ * Generated on Fri, 02 Dec 2022 22:18:13 GMT
  */
 
 module.exports = {
@@ -10,5 +10,6 @@ module.exports = {
   "ColorGray900": "#121214",
   "ColorPurple50": "#cbbeeb",
   "ColorPurple500": "#8257e6",
+  "ColorPurple700": "#4e11dc",
   "ColorRed500": "#e53e3e"
 };
